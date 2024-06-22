@@ -5,21 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8732f887-c081-49fe-b25c-4bd41014f375" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_start.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/Array1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/Array1Ref1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/Array1Ref2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/Array1Ref3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/Array1Ref4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/method/Method1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/method/Method1Ref.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/MethodCasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/MethodReturn1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/MethodReturn2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/MethodValue1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/MethodValue2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/OverLoding1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/OverLoding2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/ex/MethodEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/ex/MethodEx1Ref.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/ex/MethodEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/ex/MethodEx2Ref.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/ex/MethodEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/ex/MethodEx3Ref.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/ex/MethodEx4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/method/Method1Ref.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/method/Method1Ref.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,80 +41,60 @@
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="2i2zNWArjwLW88x6zZPqPCz8HDv" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Array1.executor": "Run",
-    "Application.Array1Ref1.executor": "Run",
-    "Application.Array1Ref2.executor": "Run",
-    "Application.Array1Ref3.executor": "Run",
-    "Application.Array1Ref4.executor": "Debug",
-    "Application.HelloJava.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.Method1.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "/Users/parkhyewon/VS CODE/04.java/java_start/src/Main.java",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Array1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Array1Ref1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Array1Ref2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Array1Ref3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Array1Ref4.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.HelloJava.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Method1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Method1Ref.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.MethodCasting.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MethodEx1Ref.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MethodEx2Ref.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MethodEx3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MethodEx3Ref.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MethodEx4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MethodReturn1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MethodReturn2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MethodValue1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MethodValue2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OverLoding1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OverLoding2.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/parkhyewon/VS CODE/04.java/java_start/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="method.ex" />
+      <recent name="method" />
       <recent name="array" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Method1">
-    <configuration name="Array1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.Array1" />
-      <module name="java_start" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Array1Ref4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.Array1Ref4" />
-      <module name="java_start" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HelloJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HelloJava" />
-      <module name="java_start" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="java_start" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.MethodEx4">
     <configuration name="Method1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="method.Method1" />
       <module name="java_start" />
@@ -127,13 +108,65 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Method1Ref" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="method.Method1Ref" />
+      <module name="java_start" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="method.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodEx4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="method.ex.MethodEx4" />
+      <module name="java_start" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="method.ex.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodReturn1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="method.MethodReturn1" />
+      <module name="java_start" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="method.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodValue2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="method.MethodValue2" />
+      <module name="java_start" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="method.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MethodEx4" />
+        <item itemvalue="Application.MethodValue2" />
+        <item itemvalue="Application.MethodReturn1" />
+        <item itemvalue="Application.Method1Ref" />
         <item itemvalue="Application.Method1" />
-        <item itemvalue="Application.Array1Ref4" />
-        <item itemvalue="Application.Array1" />
-        <item itemvalue="Application.HelloJava" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -159,6 +192,14 @@
       <workItem from="1718704939985" duration="5585000" />
       <workItem from="1718805654501" duration="843000" />
       <workItem from="1718806578983" duration="1751000" />
+      <workItem from="1718894136755" duration="1295000" />
+      <workItem from="1718896382365" duration="1075000" />
+      <workItem from="1718897464416" duration="299000" />
+      <workItem from="1718897784791" duration="2779000" />
+      <workItem from="1719037775948" duration="1928000" />
+      <workItem from="1719039920148" duration="8000" />
+      <workItem from="1719039930255" duration="6550000" />
+      <workItem from="1719068533074" duration="78000" />
     </task>
     <servers />
   </component>
